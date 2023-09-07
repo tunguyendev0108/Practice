@@ -1,10 +1,12 @@
 h2 {
-    background-color: orangered;
-    color: white;
-    text-align: center;
+  color: blue;
+  background-color: mintcream;
 }
 
-p {
-    color: blue
+label {
+  color: blueviolet;
 }
 
+html {
+  background-color: rgb(231, 231, 165);
+}
